@@ -4,7 +4,7 @@ This is a simple responsive website project for the Candy Museum, built using HT
 
 ## Demo
 
-You can check out the live demo of this website [here](#insert-your-live-demo-link).
+You can check out the live demo of this website [here](https://sidharthapaidi.github.io/Museum_of_Candy_Project/).
 
 ## Features
 
